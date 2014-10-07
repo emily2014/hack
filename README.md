@@ -4,3 +4,6 @@ enjoy coding!
 ====
 
 1st project
+
+This is Jon checking in.
+Pu can you copy?
