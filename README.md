@@ -7,3 +7,5 @@ enjoy coding!
 
 This is Jon checking in.
 Pu can you copy?
+
+Just try to say hi (Ying)
